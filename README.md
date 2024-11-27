@@ -18,9 +18,8 @@ By analyzing the website's link structure and HTML, I was able to create the fol
 
 
 <h3>1. Currency Conversion</h3>
-The URL for converting currencies can be constructed by modifying parts of the HTML link:<br>
-https://www.x-rates.com/graph/?from=BND&to=USD&amount=1<br>
-
+To convert currencies, you can use the https://www.x-rates.com/graph/?from=BND&to=USD&amount=1<br> 
+<br>
 In this link, the parameters from=BND and to=USD specify the source and target currencies, respectively.<br>
 These parameters can be changed to convert between different currencies.<br>
 
